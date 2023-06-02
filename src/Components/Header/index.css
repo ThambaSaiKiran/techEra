@@ -1,0 +1,12 @@
+.head {
+  background-color: #f1f5f9;
+  height: 12vh;
+  width: 100%;
+  padding: 20px;
+}
+
+.webLogo {
+  height: 40px;
+  width: 120px;
+  margin-left: 20px;
+}
